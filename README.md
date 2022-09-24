@@ -20,7 +20,7 @@ There is no aha! moment at the end of the program. There is gasping relief you a
 space...
 
 You cannot finish a program. Nobody can design the perfect maze. You are a soldier who wants relief from the war 
-against Mathematics. Hopefully you will be relieved by the end-user who buys and submits to using the mathematic
+against Mathematics. Hopefully you will be relieved by the end-user who buys your program and submits to using the mathematic
 path you tore down from the Logic God for them.
 
 Kind Regards,
