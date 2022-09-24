@@ -12,6 +12,8 @@ ultimately want the electricity to get through your instructions and not crash o
 The MVP/first beta/first 90% of your project, whatever you want to call it. It is getting the electricity through the maze you made. Once it has done that,
 you can polish up the maze all you want, to be more performant, to iterate on the idea, to be bug-free, to be smaller in size, ect, ect.
 
+That electric path is really what the program is, at the end of the day.
+
 None of the fancy language around the problem really matters until you know the way through that intitial maze. 
 None of the relationships you want this program to enhance, really matter until you know the way through that initial maze. 
 There is no aha! moment at the end of the program. There is gasping relief you (your electricity) made it through..
@@ -19,8 +21,6 @@ There is no aha! moment at the end of the program. There is gasping relief you (
 You cannot finish a program. Nobody can design the perfect maze. You are a soldier who wants relief from the war 
 against Mathematics. Hopefully you will be relieved by the end-user who buys and submits to using the mathematic
 path you tore down from the Logic God for them.
-
-That electric path is really what the program is, at the end of the day.
 
 Kind Regards,
 
