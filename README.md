@@ -16,7 +16,8 @@ That electric path is really what the program is, at the end of the day.
 
 None of the fancy language around the problem really matters until you know the way through that intitial maze. 
 None of the relationships you want this program to enhance, really matter until you know the way through that initial maze. 
-There is no aha! moment at the end of the program. There is gasping relief you (your electricity) made it through..
+There is no aha! moment at the end of the program. There is gasping relief you and your electricity made it through the problem
+space...
 
 You cannot finish a program. Nobody can design the perfect maze. You are a soldier who wants relief from the war 
 against Mathematics. Hopefully you will be relieved by the end-user who buys and submits to using the mathematic
