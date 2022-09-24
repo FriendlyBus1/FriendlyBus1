@@ -15,7 +15,7 @@ you can polish up the maze all you want, to be more performant, to iterate on th
 That electric path is really what the program is, at the end of the day.
 
 None of the fancy language around the problem really matters until you know the way through that intitial maze. 
-None of the relationships you want this program to enhance, really matter until you know the way through that initial maze. 
+None of the relationships you want this program to enhance, really matter until you know the shape of that initial maze. 
 There is no aha! moment at the end of the program. There is gasping relief you and your electricity made it through the problem
 space...
 
