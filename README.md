@@ -13,7 +13,7 @@ The MVP/first beta/first 90% of your project, whatever you want to call it. It i
 you can polish up the maze all you want, to be more performant, to iterate on the idea, to be bug-free, to be smaller in size, ect, ect.
 
 None of the fancy language around the problem really matters until you know the way through that intitial maze. 
-None of the relationships you imagine this program will enhance, really matter until you know the way through that initial maze.
+None of the relationships you want this program to enhance, really matter until you know the way through that initial maze.
 
 That path is really what the program is, at the end of the day.
 
