@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FriendlyBus1
 
-People speak about programming in a strange fashion. They identify a problem, recursive effort put into every stage of the process. 
+People speak about programming in a strange fashion. They identify a problem: Recursive effort put into every stage of the process. 
 The first 90% of your project takes all the time, then polishing the last 10% of your project takes another 90% of the time, ect.
 
 Then all these character and behavioural explanations of what a programmer should be or do. "Your problem is approaching the program like a middle schooler's
