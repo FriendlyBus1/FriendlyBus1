@@ -21,7 +21,8 @@ space...
 
 You cannot finish a program. Nobody can design the perfect maze. You are a soldier who wants relief from the war 
 against Mathematics. Hopefully you will be relieved by the end-user who buys your program and submits to using the mathematic
-path you tore down from the Logic God for them.
+path you tore down from the Logic God for them. Hopefully your program will complete the task you had to complete and you
+can free yourself from the ocean of code.
 
 In 20 years of programming, all this strange talk about stereotypical characters, do's and dont's, and thinking processes has never made sense to me. 
 Good luck!
